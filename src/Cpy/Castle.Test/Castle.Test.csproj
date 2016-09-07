@@ -60,6 +60,7 @@
   </Choose>
   <ItemGroup>
     <Compile Include="AOP\Person.cs" />
+    <Compile Include="AOP\PersonLogin.cs" />
     <Compile Include="AOP\SimpleInterceptor.cs" />
     <Compile Include="AOP\Test.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
